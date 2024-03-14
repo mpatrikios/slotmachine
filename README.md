@@ -1,1 +1,1 @@
-# slotmachine
+# simple slot machine game
